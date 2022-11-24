@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+leetcode:
+  username               : &leetcode
 facebook:
   username               :
   app_id                 :
