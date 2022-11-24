@@ -83,13 +83,12 @@ author:
   name             : "Zhong Yunliang"
   avatar           : "profile.png"
   bio              : "MS in Electrical and Computer Engineering at University of Massachusetts Amherst"
-  location         : "Massachusetts"
+  location         : "Amherst, Massachusetts"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "yunliangzhon@umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  leetcode         : "https://leetcode.cn/u/zhongyunliang-k/"
   uri              :
   bitbucket        :
   codepen          :
@@ -116,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  leetcode         : "https://leetcode.cn/u/zhongyunliang-k/"
 
 # Reading Files
 include:
