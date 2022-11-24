@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+leetcode:
+  username               : &leetcode
 facebook:
   username               :
   app_id                 :
@@ -83,7 +85,7 @@ author:
   name             : "Zhong Yunliang"
   avatar           : "profile.png"
   bio              : "MS in Electrical and Computer Engineering at University of Massachusetts Amherst"
-  location         : "Massachusetts"
+  location         : "Amherst, Massachusetts"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
