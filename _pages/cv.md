@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in University of Electronic Science and Technology of China(UESTC), 2021
-* M.S. in University of Massachusetts, Amherst (UMass Amherst), 2024(expected)
+* B.S. in University of Electronic Science and Technology of China (UESTC), 2021
+* M.S. in University of Massachusetts, Amherst (UMass Amherst), 2024 (expected)
   
 Skills
 ======
