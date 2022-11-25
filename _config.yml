@@ -58,8 +58,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-leetcode:
-  username               : &leetcode
 facebook:
   username               :
   app_id                 :
@@ -115,9 +113,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://leetcode.cn/u/zhongyunliang-k/"
+  youtube          : #"https://leetcode.cn/u/zhongyunliang-k/"
   wikipedia        :
-  leetcode         : 
 
 # Reading Files
 include:
